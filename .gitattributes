@@ -1,0 +1,4 @@
+# Rendered notebook exports should not count toward the repository's
+# language statistics.
+*.html linguist-generated=true
+*.ipynb linguist-detectable=true
